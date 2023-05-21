@@ -1,2 +1,2 @@
 # eShoppingCart
-eShoppingCart - Web Online Store Application
+eShoppingCart - An Online Store Web Application
